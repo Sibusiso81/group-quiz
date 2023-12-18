@@ -5,7 +5,7 @@ Problem statement
 Build a quiz programe centered on the page that will promt the user to answer three questions 
 
 Task Delagation:
-Sanele:
+Owen:
 -Create basic html templet
 -Add a div that will center the whole programm 
 -This div should be followed by another div that will contain:
@@ -14,7 +14,7 @@ Sanele:
 3 A submit button
 *DO not put any content within any of the elements eg. <div>My name is Owie</div>
 
-Owie:
+Sanele:
 -Use https://colorhunt.co/palette/f0f0f02135554f709ce5d283 to select a color scheme for the project 
 -Also use www.fontpair.co to find the a pair of fonts that we can use 
 -Add a class on the css that will allow us to hide some of the html elements
